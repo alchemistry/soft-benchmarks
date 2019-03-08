@@ -17,9 +17,9 @@ The benchmarksets paper introduced the following categories of benchmarks (which
 ### Hard benchmarks serve a variety of uses
 
 Several key uses may be noted for hard benchmarks:
-a. **Correctness**: *Systems to test software implementation and usage.* -- essentially, validating correctness of protocols and codes by comparison to known, gold-standard results.
-b. **Performance**: *Systems to check sampling correctness and efficiency* -- assessing performance, e.g. how quickly a given protocol or method converges.
-c. **Accuracy**: *Systems to assess force field (or other) accuracy* -- assessing how well a set of well converged results on a system (given a particular force field and system preparation) agree with experiment.
+- **Correctness**: *Systems to test software implementation and usage.* -- essentially, validating correctness of protocols and codes by comparison to known, gold-standard results.
+- **Performance**: *Systems to check sampling correctness and efficiency* -- assessing performance, e.g. how quickly a given protocol or method converges.
+- **Accuracy**: *Systems to assess force field (or other) accuracy* -- assessing how well a set of well converged results on a system (given a particular force field and system preparation) agree with experiment.
 
 All of these require well converged results, otherwise it can be impossible to separate these aspects.
 
@@ -39,4 +39,4 @@ For this, we need appropriate "soft benchmark" systems with high quality experim
 ## Contributors
 - David L. Mobley (UCI)
 
-( Please add your name here if you contribute significantly)
+(Please add your name here if you contribute significantly)
